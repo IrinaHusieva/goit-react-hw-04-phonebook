@@ -1,0 +1,11 @@
+.section {
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 500;
+  margin: 0;
+  padding-bottom: 20px;
+}
